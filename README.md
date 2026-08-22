@@ -1,1 +1,2 @@
 # zsh!
+Adding the dockerfile
